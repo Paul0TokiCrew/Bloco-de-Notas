@@ -1,2 +1,2 @@
 # Bloco-de-Notas
-Projeto básico de Qt
+Fiz um bloco de notas bem simples como projeto no Qt
